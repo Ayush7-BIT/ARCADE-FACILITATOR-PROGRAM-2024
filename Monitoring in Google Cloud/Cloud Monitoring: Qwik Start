@@ -1,0 +1,14 @@
+export ZONE=
+
+
+curl -LO raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/PubSub%20Lite%3A%20Qwik%20Start/GSP089.sh
+
+sudo chmod +x GSP089.sh
+
+./GSP089.sh
+
+
+Create Uptime Check - https://console.cloud.google.com/monitoring/uptime/create?pli=1
+Title - Lamp Uptime Check
+
+
