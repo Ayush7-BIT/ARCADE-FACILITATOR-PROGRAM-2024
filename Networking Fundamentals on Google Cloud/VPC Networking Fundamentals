@@ -1,0 +1,8 @@
+export ZONE=
+
+
+curl -LO raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/PubSub%20Lite%3A%20Qwik%20Start/GSP210.sh
+
+sudo chmod +x GSP210.sh
+
+./GSP210.sh
