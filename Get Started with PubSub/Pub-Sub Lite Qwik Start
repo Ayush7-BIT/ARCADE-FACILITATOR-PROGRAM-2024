@@ -1,9 +1,5 @@
-export FORM_ID=
+export REGION=
 
-
-2nd command ------------------------------------
-
-curl -L -o run.sh https://raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/ARCADE1/$FORM_ID.sh
-sudo chmod +x run.sh
-./run.sh
-
+curl -LO raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/PUBSUB/file.sh
+sudo chmod +x file.sh
+./file.sh
