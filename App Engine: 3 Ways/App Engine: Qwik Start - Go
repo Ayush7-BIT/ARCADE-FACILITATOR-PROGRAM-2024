@@ -1,0 +1,13 @@
+export REGION=
+
+
+
+curl -LO raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/PubSub%20Lite%3A%20Qwik%20Start/GSP070.sh
+
+sudo chmod +x GSP070.sh
+
+./GSP070.sh
+
+
+
+
