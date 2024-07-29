@@ -1,0 +1,8 @@
+export REGION=us-central1
+
+curl -LO raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/PubSub%20Lite%3A%20Qwik%20Start/ARC113.sh
+
+
+sudo chmod +x ARC113.sh
+
+./ARC113.sh
