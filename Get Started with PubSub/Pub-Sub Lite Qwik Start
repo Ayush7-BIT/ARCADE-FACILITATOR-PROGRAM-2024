@@ -1,0 +1,9 @@
+export FORM_ID=
+
+
+2nd command ------------------------------------
+
+curl -L -o run.sh https://raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/ARCADE1/$FORM_ID.sh
+sudo chmod +x run.sh
+./run.sh
+
