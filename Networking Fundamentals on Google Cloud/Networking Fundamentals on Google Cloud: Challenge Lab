@@ -1,0 +1,11 @@
+export ZONE=
+
+
+curl -LO raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/PubSub%20Lite%3A%20Qwik%20Start/ARC124.sh
+
+sudo chmod +x ARC124.sh
+
+./ARC124.sh
+
+
+
