@@ -1,0 +1,27 @@
+Go to Audit Logs for Compute Engine API
+
+
+export ZONE=
+
+
+
+curl -LO raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/PubSub%20Lite%3A%20Qwik%20Start/GSP1089-1.sh
+
+sudo chmod +x GSP1089-1.sh
+
+./GSP1089-1.sh
+
+
+
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Functions%202nd%20Gen%20Qwik%20Start/GSP1089-2.sh
+
+sudo chmod +x GSP1089-2.sh
+
+./GSP1089-2.sh
+
+
+
+
+
+
+
