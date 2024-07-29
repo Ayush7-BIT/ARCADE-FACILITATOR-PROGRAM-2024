@@ -1,0 +1,8 @@
+export REGION=
+
+
+curl -LO raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/PubSub%20Lite%3A%20Qwik%20Start/GSP081.sh
+
+sudo chmod +x GSP081.sh
+
+./GSP081.sh
