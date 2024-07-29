@@ -1,12 +1,12 @@
 explore: +airports {
-    query: quicklab_task_1 {
+    query: bcw_1 {
       measures: [average_elevation]
     }
   }
 
 
 explore: +airports {
-    query: quicklab_task_2 {
+    query: bcw_2 {
       dimensions: [facility_type]
       measures: [average_elevation, count]
     }
