@@ -1,8 +1,5 @@
-export FORM_ID=
+curl -LO raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/PubSub%20Lite%3A%20Qwik%20Start/ARC111.sh
 
+sudo chmod +x ARC111.sh
 
-2nd command ------------------------------------
-
-curl -L -o run.sh https://raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/ARCADE1/$FORM_ID.sh
-sudo chmod +x run.sh
-./run.sh
+./ARC111.sh
