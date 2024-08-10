@@ -1,4 +1,4 @@
-export REGION=us-central1
+export REGION=
 
 curl -LO raw.githubusercontent.com/Ayush7-BIT/Images-Arcade/main/PubSub%20Lite%3A%20Qwik%20Start/ARC113.sh
 
