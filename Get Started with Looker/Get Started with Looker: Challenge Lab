@@ -1,10 +1,7 @@
 
-
+----------------------------------------------------------------------------------------------------------
 
 Create view named - users_region
-
-
-
 
 view: users_region {
   sql_table_name: cloud-training-demos.looker_ecomm.users ;;
@@ -32,7 +29,7 @@ view: users_region {
 }
 
 
-
+---------------------------------------------------------------------------------------------------
 
 
 Replace this in training_ecommerce.model file
@@ -102,7 +99,7 @@ explore: events {
   }
 }
 
-
+-----------------------------------------------------------------------------------------------------------------
 
 Create a bar chart of the " top 3 event types based on the highest number of users " 
 
