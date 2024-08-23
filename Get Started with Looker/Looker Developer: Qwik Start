@@ -1,5 +1,5 @@
+-----------------------------------------------------------------------------------------------------
 Create a file named users_limited under develop > view
-
 
 view: users_limited {
   sql_table_name: `cloud-training-demos.looker_ecomm.users` ;;
@@ -38,7 +38,7 @@ view: users_limited {
 }
 
 
-
+------------------------------------------------------------------------------------------------------------
 
 Open training_ecommerce.model file
 
